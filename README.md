@@ -14,78 +14,79 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="1000" height="450" src="./assets/header.gif" alt="Rakshuverse Banner">
 
-<h1 align="center">✨ Hey there, I'm Rakshita ✨</h1>
-<p align="center">🌼 Web Developer · 🎨 UI Designer · 🖋 Poet · 🌍 Dreamer</p>
+<div align="justify">
 
----
+<h1 align="center">Hi 👋, I'm Rakshita</h1>
+<h3 align="center">A Web Developer, Designer, Artist & Poet 🌸</h3>
 
-### 🌸 About Me
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rakshuverse&label=Profile%20views&color=fc03d7&style=flat" alt="rakshuverse" />
+</p>
 
-> “I weave lines of poetry into lines of code,  
-> and craft UIs like canvases kissed by color.”
+<img align="right" alt="Creativity Loading..." width="300" height="300" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" />
 
-I'm a multi-passionate creator — I love blending **technology, design, and soul**. From front-end magic with HTML, CSS & JavaScript, to visual stories through art and words — I build things that feel and function beautifully.
-
----
-
-### 🚀 What I’m Working On
-
-- ✨ Enhancing UI with **Tailwind CSS**
-- 🎶 Building [ViBeat](https://github.com/rakshuverse/Vibeat) – A music experience you can feel
-- 📚 Learning **Git & GitHub** workflows
-- 🎨 Creating digital art & visual poetry
+- 🔭 I’m currently building beautiful web projects with **Tailwind CSS**  
+- 🌱 Exploring **GitHub**, **JavaScript** & design systems  
+- ✨ Bringing art, poetry, and code together in my projects  
+- 💬 Ask me about **web design, poetry, or digital creativity!**  
+- 🌐 Check out my live works: [Portfolio Coming Soon](#)  
+- 🎥 Watch my project in action below ⬇️
 
 ---
 
-### 🧩 Tech Stack
+### 🎬 Featured Project Demo
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+[![Code Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)  
+**🎧 ViBeat – Music for the Mind**  
+A Spotify-style music app built with HTML, CSS, and JavaScript. [View Code →](https://github.com/rakshuverse/Vibeat)
 
 ---
 
-### 🎬 My Work in Action
+### ⚡ Languages & Tools
 
-> *“Code becomes poetry when it flows.”*
-
-#### 🔻 Watch a short demo of my project/code:
-[![Code Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
-
-Or view the project here: [ViBeat Repo 🎧](https://github.com/rakshuverse/Vibeat)
-
----
-
-### 🌌 My Universe
-
-🪐 Explore my GitHub Galaxy:  
-[ViBeat](https://github.com/rakshuverse/Vibeat) · [Clock App](https://github.com/rakshuverse/clock-app) · [Portfolio](https://github.com/rakshuverse/portfolio)
-
-📜 I write too:  
-> _“The terminal blinks like a heartbeat.  
-> The canvas waits for code to kiss it.”_
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"><br>HTML</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"><br>CSS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"><br>Tailwind</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48"><br>Figma</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"><br>GitHub</td>
+  </tr>
+</table>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshuverse&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshuverse&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakshuverse&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshuverse&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakshuverse&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Instagram](https://img.shields.io/badge/-Art%20&%20Poetry-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourartprofile)
+<p align="left">
+  <a href="https://github.com/rakshuverse" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/github.png"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/fluency/30/000000/gmail-new.png"/></a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.icons8.com/color/30/linkedin.png"/></a>
+  <a href="https://instagram.com/yourartprofile" target="_blank"><img src="https://img.icons8.com/fluency/30/instagram-new.png"/></a>
+</p>
 
 ---
 
-<p align="center">💫 “Create like a poet, code like a craftsman.”</p>
+<p align="center">
+  <i>“Design is poetry the user can touch. Code is the rhythm it follows.”</i><br>
+  — Rakshita 🌙
+</p>
 
+</div>

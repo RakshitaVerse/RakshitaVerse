@@ -1,19 +1,5 @@
-## Hi there 👋
 
-<!--
-**rakshuverse/rakshuverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img width="1000" height="450" src="./assets/header.gif" alt="Rakshuverse Banner">
 
 <div align="justify">
@@ -27,51 +13,81 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Creativity Loading..." width="300" height="300" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" />
 
-- 🔭 I’m currently building beautiful web projects with **Tailwind CSS**  
-- 🌱 Exploring **GitHub**, **JavaScript** & design systems  
-- ✨ Bringing art, poetry, and code together in my projects  
-- 💬 Ask me about **web design, poetry, or digital creativity!**  
+- 🔭 I’m currently on myself!
+  
+- 🌱 Exploring **GitHub**, **JavaScript** & design systems
+  
+- ✨ Bringing art, poetry, and code together in my projects
+  
+- 💬 Ask me about **web design, poetry, or digital creativity!**
+  
 - 🌐 Check out my live works: [Portfolio Coming Soon](#)  
-- 🎥 Watch my project in action below ⬇️
 
----
 
-### 🎬 Featured Project Demo
 
-[![Code Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)  
-**🎧 ViBeat – Music for the Mind**  
-A Spotify-style music app built with HTML, CSS, and JavaScript. [View Code →](https://github.com/rakshuverse/Vibeat)
 
----
-
-### ⚡ Languages & Tools
+### Language and Tools ⚙️
 
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"><br>HTML</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"><br>CSS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48"><br>Figma</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"><br>GitHub</td>
-  </tr>
+      <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+      <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactjs" />
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height= " 50"alt="GitHub"
+       style="filter: brightness(0) invert(1);"/>
+  <br>Github
+</td>
+ </tr>
 </table>
 
----
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshuverse&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshuverse&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakshuverse&show_icons=true&theme=radical&hide_border=true&title_color=ff6ec7&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshuverse&layout=compact&theme=radical&hide_border=true&title_color=ff6ec7&text_color=ffffff&bg_color=0d1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakshuverse&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshuverse&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff6ec7&currStreakLabel=ffffff&sideLabels=ffffff" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakshuverse&theme=tokyonight" width="100%"/>
+</p>
+
+
 
 ### 🌐 Connect with Me
 
@@ -79,8 +95,8 @@ A Spotify-style music app built with HTML, CSS, and JavaScript. [View Code →](
   <a href="https://github.com/rakshuverse" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/github.png"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/fluency/30/000000/gmail-new.png"/></a>
   <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.icons8.com/color/30/linkedin.png"/></a>
-  <a href="https://instagram.com/yourartprofile" target="_blank"><img src="https://img.icons8.com/fluency/30/instagram-new.png"/></a>
 </p>
+
 
 ---
 

@@ -12,15 +12,7 @@
 </p>
 
 
-
-<p align="right">
-  <img src="ghibli-image .jpg" 
-       alt="Ghibli Spirit" 
-       width="200"
-       style="border-radius: 50%; border: 2px solid #ccc;" />
-  <br>
-  <em>“A still from a world where wonder breathes.”</em>
-</p>
+<img align="right" alt="Error Loading...." width="300" height="300" src="ghibli-image .jpg" >
 
 - 🔭 I’m currently on myself!
   
@@ -35,8 +27,10 @@
 
 
 
-### Language and Tools ⚙️
 
+
+
+### Language and Tools ⚙️
 <table>
   <tr>
       <td align="center"  width="96">

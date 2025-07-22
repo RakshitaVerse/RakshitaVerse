@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=rakshuverse&label=Profile%20views&color=fc03d7&style=flat" alt="rakshuverse" />
 </p>
 
-<img align="right" alt="Creativity Loading..." width="300" height="300" src="./assets/ghibli-image.jpg" />
+<img align="right" alt="Creativity Loading..." width="300" height="300" src="./ghibli-image.jpg" />
 
 
 - 🔭 I’m currently on myself!

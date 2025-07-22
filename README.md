@@ -11,10 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=rakshuverse&label=Profile%20views&color=fc03d7&style=flat" alt="rakshuverse" />
 </p>
 
+
+
 <p align="center">
-  <img src="ghibli-image.jpg" alt="Ghibli Spirit" width="200" style="border-radius: 50%; border: 2px solid #ccc;" />
+  <img src="https://raw.githubusercontent.com/rakshuverse/rakshuverse/main/ghibli-image.jpg" alt="Ghibli Spirit" width="200" style="border-radius: 50%; border: 2px solid #ccc;" />
   <br><em>“A still from a world where wonder breathes.”</em>
 </p>
+
 
 
 

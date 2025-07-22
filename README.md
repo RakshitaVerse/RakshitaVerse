@@ -60,10 +60,6 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       <br>Python
     </td>
-      <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactjs" />
-      <br>ReactJS
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git

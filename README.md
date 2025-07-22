@@ -11,7 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=rakshuverse&label=Profile%20views&color=fc03d7&style=flat" alt="rakshuverse" />
 </p>
 
-<img align="right" alt="Creativity Loading..." width="300" height="300" src="./ghibli-image.jpg" />
+<p align="center">
+  <img src="ghibli-image.jpg" alt="Ghibli Spirit" width="200" style="border-radius: 50%; border: 2px solid #ccc;" />
+  <br><em>“A still from a world where wonder breathes.”</em>
+</p>
+
 
 
 - 🔭 I’m currently on myself!

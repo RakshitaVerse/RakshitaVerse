@@ -13,13 +13,14 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rakshuverse/rakshuverse/main/ghibli-image.jpg" alt="Ghibli Spirit" width="200" style="border-radius: 50%; border: 2px solid #ccc;" />
-  <br><em>“A still from a world where wonder breathes.”</em>
+<p align="right">
+  <img src="ghibli-image .jpg" 
+       alt="Ghibli Spirit" 
+       width="200"
+       style="border-radius: 50%; border: 2px solid #ccc;" />
+  <br>
+  <em>“A still from a world where wonder breathes.”</em>
 </p>
-
-
-
 
 - 🔭 I’m currently on myself!
   

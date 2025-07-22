@@ -6,32 +6,34 @@
 
 <h1 align="center">Hi 👋, I'm Rakshita</h1>
 <h3 align="center">A Web Developer, Designer, Artist & Poet 🌸</h3>
-
+<p align="center">“A still from a world where wonder breathes.”</p>
+<br><br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rakshuverse&label=Profile%20views&color=fc03d7&style=flat" alt="rakshuverse" />
 </p>
 
+<p align="right">
+  <img align="right" alt="Error Loading...." width="300" height="300" src="ghibli_circle.png" style="border-radius: 50%; border: 2px solid #ccc; margin-left: 15px;" >
+</p>
 
-<img align="right" alt="Error Loading...." width="300" height="300" src="ghibli-image. jpg" style="border-radius: 50%; border: 2px solid #ccc; margin-left: 15px;" >
+<br>
 
 - 🔭 I’m currently on myself!
-  
+
 - 🌱 Exploring **GitHub**, **JavaScript** & design systems
   
 - ✨ Bringing art, poetry, and code together in my projects
   
 - 💬 Ask me about **web design, poetry, or digital creativity!**
   
-- 🌐 Check out my live works: [Portfolio Coming Soon](#)  
+- 🌐 Check out my live works:  [Portfolio Coming Soon](#)  
 
 
+<br>
 
-
-
-<br><br><br>
-
+<br><br>
 ### Language and Tools ⚙️
-
+<br>
 <table>
   <tr>
       <td align="center"  width="96">
@@ -103,7 +105,8 @@
 
 <p align="center"><em>Let's collaborate, code, or create something poetic together.</em></p>
 
-<br>
+<br><hr style="border: none; height: 0.2px; background-color: #aaa; margin: 16px 0;" />
+
 
 <p align="center">
   <i>“Design is poetry the user can touch. Code is the rhythm it follows.”</i><br>

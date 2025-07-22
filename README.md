@@ -12,6 +12,7 @@
 </p>
 
 
+<img align="right" alt="Error Loading...." width="300" height="300" src="ghibli-image. jpg" style="border-radius: 50%; border: 2px solid #ccc; margin-left: 15px;" >
 
 - 🔭 I’m currently on myself!
   
@@ -25,6 +26,9 @@
 
 
 
+
+
+<br><br><br>
 
 ### Language and Tools ⚙️
 
@@ -70,7 +74,7 @@
  </tr>
 </table>
 
-
+<br><br>
 ## 📊 GitHub Stats & Activity
 
 
@@ -87,18 +91,19 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakshuverse&theme=tokyonight" width="100%"/>
 </p>
 
-
+<br><br>
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/rakshuverse" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/github.png"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/fluency/30/000000/gmail-new.png"/></a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.icons8.com/color/30/linkedin.png"/></a>
+<p align="center">
+  <a href="https://github.com/rakshuverse" target="_blank" title="GitHub"><img src="https://img.icons8.com/nolan/40/github.png"/></a>
+  <a href="mailto:your.email@example.com" title="Mail me!"><img src="https://img.icons8.com/nolan/40/gmail-new.png"/></a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
 </p>
 
+<p align="center"><em>Let's collaborate, code, or create something poetic together.</em></p>
 
----
+<br>
 
 <p align="center">
   <i>“Design is poetry the user can touch. Code is the rhythm it follows.”</i><br>

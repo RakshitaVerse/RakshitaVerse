@@ -8,7 +8,7 @@
 <h3 align="center">A Web Developer, Designer, Artist & Poet 🌸</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rakshuverse&label=Profile%20views&color=fc03d7&style=flat" alt="rakshuverse" />
+  <img src="ghibli-image.jpg" alt="rakshuverse" />
 </p>
 
 <img align="right" alt="Creativity Loading..." width="300" height="300" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" />

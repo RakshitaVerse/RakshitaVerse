@@ -9,7 +9,7 @@
 <p align="center">“A still from a world where wonder breathes.”</p>
 <br><br>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RakshitaVerse&label=Profile%20views&color=fc03d7&style=flat" alt="rakshuverse" />
+  <img src="https://komarev.com/ghpvc/?username=RakshitaVerse&label=Profile%20views&color=fc03d7&style=flat" alt="RakshitaVerse" />
 </p>
 
 <p align="right">
@@ -35,7 +35,7 @@
     <div>
       <h2 class="text-xl font-semibold text-white mb-3">🌐 Connect with Me</h2>
       <p align="left">
-  <a href="https://github.com/rakshuverse" target="_blank" title="GitHub"><img src="https://img.icons8.com/nolan/40/github.png"/></a>
+  <a href="https://github.com/RakshitaVerse" target="_blank" title="GitHub"><img src="https://img.icons8.com/nolan/40/github.png"/></a>
   <a href="mailto:rakshitagupta066@gmail.com" title="Mail me!"><img src="https://img.icons8.com/nolan/40/gmail-new.png"/></a>
   <a href="https://www.linkedin.com/in/rakshita-gupta-958617376/" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
       </p>
@@ -89,16 +89,16 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshuverse&show_icons=true&theme=radical&hide_border=true&title_color=ff6ec7&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshuverse&layout=compact&theme=radical&hide_border=true&title_color=ff6ec7&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RakshitaVerse&show_icons=true&theme=radical&hide_border=true&title_color=ff6ec7&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitaVerse&layout=compact&theme=radical&hide_border=true&title_color=ff6ec7&text_color=ffffff&bg_color=0d1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshuverse&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff6ec7&currStreakLabel=ffffff&sideLabels=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakshitaVerse&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff6ec7&currStreakLabel=ffffff&sideLabels=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakshuverse&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RakshitaVerse&theme=tokyonight" width="100%"/>
 </p>
 
 

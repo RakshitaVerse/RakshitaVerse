@@ -91,18 +91,23 @@
 
 <br><br>
 
-### 🌐 Connect with Me
-
-<p align="center">
+<footer class="bg-gray-900 text-gray-300 py-10 px-6 mt-10">
+  <div class="text-center space-y-6">
+    <div>
+      <h2 class="text-xl font-semibold text-white mb-3">🌐 Connect with Me</h2>
+      <p align="left">
   <a href="https://github.com/rakshuverse" target="_blank" title="GitHub"><img src="https://img.icons8.com/nolan/40/github.png"/></a>
   <a href="mailto:your.email@example.com" title="Mail me!"><img src="https://img.icons8.com/nolan/40/gmail-new.png"/></a>
   <a href="https://linkedin.com/in/your-profile" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
 </p>
 
-<p align="center"><em>Let's collaborate, code, or create something poetic together.</em></p>
 
-<br><hr style="border: none; height: 0.2px; background-color: #aaa; margin: 16px 0;" />
+  </div>
+</footer>
 
+
+
+<br><br>
 
 <p align="center">
   <i>“Design is poetry the user can touch. Code is the rhythm it follows.”</i><br>

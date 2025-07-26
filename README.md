@@ -9,7 +9,7 @@
 <p align="center">“A still from a world where wonder breathes.”</p>
 <br><br>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rakshuverse&label=Profile%20views&color=fc03d7&style=flat" alt="rakshuverse" />
+  <img src="https://komarev.com/ghpvc/?username=RakshitaVerse&label=Profile%20views&color=fc03d7&style=flat" alt="rakshuverse" />
 </p>
 
 <p align="right">

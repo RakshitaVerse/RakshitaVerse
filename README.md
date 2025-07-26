@@ -30,9 +30,21 @@
 
 
 <br>
-
-<br><br>
-### Language and Tools ⚙️
+<footer class="bg-gray-900 text-gray-300 py-10 px-6 mt-10">
+  <div class="text-center space-y-6">
+    <div>
+      <h2 class="text-xl font-semibold text-white mb-3">🌐 Connect with Me</h2>
+      <p align="left">
+  <a href="https://github.com/rakshuverse" target="_blank" title="GitHub"><img src="https://img.icons8.com/nolan/40/github.png"/></a>
+  <a href="mailto:rakshitagupta066@gmail.com" title="Mail me!"><img src="https://img.icons8.com/nolan/40/gmail-new.png"/></a>
+  <a href="https://www.linkedin.com/in/rakshita-gupta-958617376/" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
+      </p>
+  </div>
+  </footer>
+  
+  <br>
+  
+<h2>⚙️ Language and Tools </h2>
 <br>
 <table>
   <tr>
@@ -88,23 +100,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakshuverse&theme=tokyonight" width="100%"/>
 </p>
-
-<br><br>
-
-<footer class="bg-gray-900 text-gray-300 py-10 px-6 mt-10">
-  <div class="text-center space-y-6">
-    <div>
-      <h2 class="text-xl font-semibold text-white mb-3">🌐 Connect with Me</h2>
-      <p align="left">
-  <a href="https://github.com/rakshuverse" target="_blank" title="GitHub"><img src="https://img.icons8.com/nolan/40/github.png"/></a>
-  <a href="mailto:your.email@example.com" title="Mail me!"><img src="https://img.icons8.com/nolan/40/gmail-new.png"/></a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
-</p>
-
-
-  </div>
-</footer>
-
 
 
 <br><br>

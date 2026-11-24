@@ -26,7 +26,7 @@
   
 - 💬 Ask me about **web design, poetry, or digital creativity!**
   
-- 🌐 Check out my live works: (#https://portfolio-rakshiverse.netlify.app/)  
+- 🌐 Check out my live works: RakshiVerse(#https://portfolio-rakshiverse.netlify.app/)  
 
 
 <br>
